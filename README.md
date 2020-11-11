@@ -2,16 +2,16 @@
 <img src="20201112_000501.png" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BottWa" src="https://img.shields.io/badge/BottWa-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ZiiBott17"><img title="Author" src="https://img.shields.io/badge/Author-ZiiBott17-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ZiiBott17/followers"><img title="Followers" src="https://img.shields.io/github/followers/ZiiBott17?color=blue&style=flat-square"></a>
-<a href="https://github.com/ZiiBott17/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ZiiBott17/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/ZiiBott17/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ZiiBott17/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/ZiiBott17/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ZiiBott17/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/ZiiBott17/BottWa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ZiiBott17/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/ZiiBott17/BottWa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ZiiBott17/BottWa?color=red&style=flat-square"></a>
+<a href="https://github.com/mhankbarbar/ZiiBott17/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ZiiBott17/BottWa?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Clone this project
@@ -30,7 +30,7 @@ you've just cloned!!
 ```
 
 ### Usage
-Before running this script, first edit [this section](https://github.com/MhankBarBar/whatsapp-bot/blob/master/msgHndlr.js#L67) with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
+Before running this script, first edit [this section](https://github.com/ZiiBott17/BottWa/blob/master/msgHndlr.js#L67) with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
 ```bash
 > npm start
 ```
