@@ -5,19 +5,19 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ZiiBott17"><img title="Author" src="https://img.shields.io/badge/Author-ZiiBott17-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/ZiiBott17/followers"><img title="Followers" src="https://img.shields.io/github/followers/ZiiBott17?color=blue&style=flat-square"></a>
+<a href="https://github.com/ZiiBott17/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ZiiBott17/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/ZiiBott17/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ZiiBott17/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/mhankbarbar/ZiiBott17/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ZiiBott17/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/whatsapp-bot
+> git clone https://github.com/ZiiBott17/whatsapp-bot
 ```
 
 ## Install the dependencies:
@@ -109,4 +109,4 @@ Fix Stuck on linux, install google chrome stable:
 * [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
+* [`Saweria`](https://saweria.co/donate/ZiiBott17)
