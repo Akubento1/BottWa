@@ -11,7 +11,7 @@
 <a href="https://github.com/ZiiBott17/followers"><img title="Followers" src="https://img.shields.io/github/followers/ZiiBott17?color=blue&style=flat-square"></a>
 <a href="https://github.com/ZiiBott17/BottWa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ZiiBott17/whatsapp-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/ZiiBott17/BottWa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ZiiBott17/BottWa?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/ZiiBott17/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ZiiBott17/BottWa?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/ZiiBott17/BottWa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ZiiBott17/BottWa?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Clone this project
